@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1491901015 source:d:\projects\fakybirdgame\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Init.h"
+	"bird.h"
+	"Pipes.h"
+	"renderText.h"
+	"renderImage.h"
+	"load.h"
+
+1491892998 d:\projects\fakybirdgame\init.h
+
+1491899730 d:\projects\fakybirdgame\bird.h
+
+1491908100 d:\projects\fakybirdgame\pipes.h
+	"bird.h"
+
+1491895815 d:\projects\fakybirdgame\rendertext.h
+
+1491892974 d:\projects\fakybirdgame\renderimage.h
+
+1491893420 source:d:\projects\fakybirdgame\bird.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"Init.h"
+	"bird.h"
+	"renderImage.h"
+	"load.h"
+
+1491899363 source:d:\projects\fakybirdgame\pipes.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<time.h>
+	"Init.h"
+	"Pipes.h"
+	"renderImage.h"
+	"load.h"
+	"bird.h"
+
+1491891990 source:d:\projects\fakybirdgame\init.cpp
+	<iostream>
+	<SDL.h>
+
+1491893392 source:d:\projects\fakybirdgame\renderimage.cpp
+	<bits/stdc++.h>
+	<SDL_ttf.h>
+	<SDL.h>
+	<SDL_image.h>
+	"renderImage.h"
+	"load.h"
+
+1491895784 source:d:\projects\fakybirdgame\rendertext.cpp
+	<bits/stdc++.h>
+	<SDL_ttf.h>
+	"renderText.h"
+
+1491900957 source:d:\projects\fakybirdgame\load.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"load.h"
+	"renderText.h"
+
+1491900971 d:\projects\fakybirdgame\load.h
+	<SDL_mixer.h>
+
